@@ -7,3 +7,22 @@ build/
 captures/
 .externalNativeBuild/
 .cxx/
+
+# temp / editor / backups
+*.bak
+*.broken
+*.bom
+*~
+*.swp
+*.tmp
+
+# Android / Gradle (falls nicht schon vorhanden)
+.gradle/
+build/
+**/build/
+local.properties
+
+# generated res / intermediates
+**/intermediates/
+**/merged_res/
+**/packaged_res/

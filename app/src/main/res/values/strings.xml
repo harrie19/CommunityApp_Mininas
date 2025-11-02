@@ -1,4 +1,3 @@
-// FILE: CommunityApp/app/src/main/res/values/strings.xml
 <resources>
     <string name="app_name">Bahai Community</string>
     <string name="feed">Feed</string>
